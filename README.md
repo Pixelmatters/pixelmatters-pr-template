@@ -10,9 +10,9 @@
     Github Pull Request Templates
 </h1>
 
-<h4 align="center">
+<h3 align="center">
     A set of Pull Request templates, in a Pixelmatters' way.
-</h4>
+</h3>
 
 <p align="center">
     <a href="https://github.com/Pixelmatters/pixelmatters-pr-template/blob/master/LICENSE">
